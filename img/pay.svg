@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="117px" height="108px" viewBox="0 0 117 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Предоплата</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="How-to-start" transform="translate(-661.000000, -266.000000)" fill="#4A4A4A">
+            <g id="Group-2" transform="translate(128.000000, 113.000000)">
+                <g id="Предоплата" transform="translate(533.000000, 115.000000)">
+                    <g>
+                        <text id="₽" font-family=".HelveticaNeueDeskInterface-Regular, .Helvetica Neue DeskInterface" font-size="150" font-weight="normal">
+                            <tspan x="37" y="145">₽</tspan>
+                        </text>
+                        <path d="M23,113 L23,40 L13,40 L13,113 L0,113 L13,136.189189 L13,137 L13.4545455,137 L18.5,146 L37,113 L23,113 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="23px" viewBox="0 0 19 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contacts" transform="translate(-995.000000, -47.000000)" fill="#FFFFFF">
+            <g id="Menu" transform="translate(120.000000, 36.000000)">
+                <path d="M889.129457,24.6752026 C888.078437,24.6752026 887.31109,25.606698 886.400886,25.606698 C885.492723,25.606698 881.400886,21.5089536 881.400886,20.4897389 C881.400886,19.4747013 882.309049,18.9797139 882.309049,17.9312594 C882.309049,17.1772911 879.582518,12.5845593 878.445784,12.5845593 C877.31109,12.5845593 874.584559,14.6501399 874.584559,16.5381934 C874.584559,22.0624206 884.527416,32.5845593 890.721294,32.5845593 C892.427416,32.5845593 894.584559,30.7508083 894.584559,28.6309252 C894.584559,27.9041082 890.151906,24.6752026 889.129457,24.6752026 L889.129457,24.6752026 Z" id="Shape" transform="translate(884.584559, 22.584559) rotate(10.000000) translate(-884.584559, -22.584559) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
